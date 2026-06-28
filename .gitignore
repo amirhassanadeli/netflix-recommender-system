@@ -1,6 +1,7 @@
 # Python
 __pycache__/
 *.py[cod]
+*.pyc
 
 # Virtual Environment
 .venv/
@@ -27,5 +28,6 @@ media/
 .pytest_cache/
 .mypy_cache/
 
-# artifacts
-artifacts
+# models
+netflix_recommender/artifacts/
+*.pkl

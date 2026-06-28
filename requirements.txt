@@ -1,5 +1,10 @@
-scikit-learn
+django
+djangorestframework
+djangorestframework-stubs
 pandas
-matplotlib
-seaborn
-streamlit
+scikit-learn
+python-dotenv
+
+
+
+
